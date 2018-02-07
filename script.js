@@ -16,7 +16,6 @@ var alienShooting;
 var score;
 
 // Ship Variables
-var shipName;
 var shipColor;
 var shipX;
 var shipY;
