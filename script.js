@@ -16,27 +16,27 @@ var alienShooting;
 var score;
 
 // Ship Variables
-var shipColor;
+var shipDiameter;
 var shipX;
 var shipY;
-var shipDiameter;
 var shipSpeed;
+var shipColor;
 
 // Bullet Variables
+var bulletDiameter;
 var bulletX;
 var bulletY;
-var bulletDiameter;
 
 // Alien Variables
+var alienDiameter;
 var alienX;
 var alienY;
-var alienDiameter;
 var alienVelocity;
 
 // Alien Bullet Variables
+var alienBulletDiameter;
 var alienBulletX;
 var alienBulletY;
-var alienBulletDiameter;
 
 
 /*
